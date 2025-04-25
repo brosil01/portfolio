@@ -36,7 +36,7 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-.hero {
+.myself {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -45,19 +45,19 @@ nav ul li a:hover {
   gap: 30px;
   text-align: center;
 }
-.hero-img img {
-  width: 280px;
+.myself-img img {
+  width: 320px;
   border-radius: 12px;
   object-fit: cover;
 }
-.hero-text h1 {
+.myself-text h1 {
   font-size: 2em;
   margin-bottom: 10px;
 }
-.hero-text span {
+.myself-text span {
   color: purple;
 }
-.hero-text p {
+.myself-text p {
   font-size: 1.1em;
   max-width: 600px;
   margin: auto;
