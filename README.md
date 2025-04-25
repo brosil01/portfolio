@@ -7,19 +7,19 @@ This website showcases my background as a Computer Science student, my skills in
 
 ---
 
-## 🔗 Live Website
+## Live Website
 
-🌐 [View my portfolio](https://brosil01.github.io/portfolio/)
+ [View my portfolio](https://brosil01.github.io/portfolio/)
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a senior at San Francisco State University pursuing a degree in Computer Science. I'm interested in both front-end and back-end development, with a focus on building responsive and interactive web and mobile applications.
 
 ---
 
-## 🚀 Programming Language Used
+## Programming Language Used
 
 - **HTML5**
 - **CSS3**
@@ -28,15 +28,15 @@ I'm a senior at San Francisco State University pursuing a degree in Computer Sci
 
 ---
 
-## 🛠️ Featured Project
+## Featured Project
 
-### 🔢 JavaScript Calculator
+### JavaScript Calculator
 
 This project replicates the look and functionality of a native mobile calculator. It supports:
 - Basic arithmetic operations
 - Responsive layout
 - Mobile-friendly design
 
-👉 [Try the Calculator](https://brosil01.github.io/portfolio/calculator/index.html)
+ [Try the Calculator](https://brosil01.github.io/portfolio/calculator/index.html)
 
 ---
